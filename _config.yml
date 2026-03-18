@@ -17,7 +17,7 @@ repository               : "Kubao03/Kubao03.github.io"
 
 author:
   name             : "陈睿阳"
-  avatar           : "images/profile.jpg"  # 上传你的头像
+  avatar           : "profile.jpg"  # 上传你的头像
   bio              : "AI Agent Developer · NUS · Beijing"
   location         : "Singapore"
   email            : "ruiyang03.chen@gmail.com"
